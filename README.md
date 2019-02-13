@@ -1,3 +1,4 @@
-# L4
-Development exercises 21 to 24
-Team: Gabriel Briones and Edgar Castillo
+# python-programs-gbriones1
+
+Gabriel Briones Sayeg
+Edgar Castillo Hernandez
